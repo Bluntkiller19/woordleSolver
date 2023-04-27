@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:trivia_quize/core/models/theme_model.dart';
-import 'package:trivia_quize/core/utils/routes.dart';
+import 'package:woordle_solver/theme/theme_model.dart';
 
 class BackOverRide extends StatelessWidget {
   final Widget child;

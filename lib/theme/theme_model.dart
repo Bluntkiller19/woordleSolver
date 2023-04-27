@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:trivia_quize/src/themes/themes.dart';
+import 'package:woordle_solver/theme/themes.dart';
 
 enum ThemeType{
   original,

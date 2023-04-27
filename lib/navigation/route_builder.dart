@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:trivia_quize/core/utils/routes.dart';
+import 'package:woordle_solver/navigation/routes.dart';
 
 class RouteBuilder{
   static Route<dynamic> generateRoute(RouteSettings settings){
